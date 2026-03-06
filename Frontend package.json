@@ -1,0 +1,10 @@
+{
+  "name": "herg-frontend",
+  "private": true,
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "ethers": "^6.0.0"
+  }
+}
