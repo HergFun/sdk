@@ -4,7 +4,8 @@
 
 Herg is a fair distribution layer for tokens designed to make launches transparent, engaging, and accessible to everyone. Instead of opaque allocations and insider advantages, Herg introduces game-based participation where anyone can compete for tokens on equal footing.
 
-CA pump.fun : xxxxxxxxxxpump
+CA pump.fun : CWLAr9F1dWkXRkMfg34ix78t332m97YBkRkNJtwBpump
+Lock : https://app.streamflow.finance/contract/solana/mainnet/6nJBo5Q89VqFui4DPEqToq89q3sMXjXdyofntaGeUjue?ref=nocturnally-potent-iguanodon
 ---
 
 ## ✨ Features
